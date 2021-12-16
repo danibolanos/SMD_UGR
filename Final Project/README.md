@@ -1,13 +1,5 @@
-# Seam-Carving Algorithm
+# Data Warehouse PDI/Mondrian Project
 
-Implementation of the Seam-Carving algorithm to resize images while preserving the most relevant content. The algorithm is based on eliminating the seams with the smallest colour difference between neighbouring pixels. Implementation in Python using the OpenCV library and testing on a set of images contained in the project.
+Development of a project with multidimensional analysis tools. Using PowerQuery for data pre-processing. Implementation of the ETL schema using the Spoon software from Kettle. Finally using Mondrian as the engine of the OLAP component and JRubik to generate different queries on the implemented multidimensional schema.
 
-Work done by:
-
-- Daniel Bolaños Martínez
-
-- José María Borrás Serrano
-
-## Bibliography
-
-- S. Avidan & A. Shamir (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
+Dataset based on a Camping Site Occupancy Survey for each type of guest in each town of Spain. Obtained from the National Institute of Statistics.
